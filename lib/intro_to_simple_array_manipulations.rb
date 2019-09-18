@@ -38,11 +38,15 @@ def using_flatten(instruments)
   instruments.flatten
 end
 
-def using_delete(famous_robots, integer)
-  famous_robots.delete(integer)
+def using_delete(array, string)
+  array.delete(string)
 end
 
+def using_delete_at(famous_robots, 2)
+  famous_robots.delete(2)
+end
 
+  
 
 
 
