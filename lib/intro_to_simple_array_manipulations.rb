@@ -39,16 +39,6 @@ def using_flatten(instruments)
 end
 
 
-  
-
-
-
-
-
-
-
-
-
 
 
 
