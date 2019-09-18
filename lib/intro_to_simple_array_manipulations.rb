@@ -34,13 +34,13 @@ def using_uniq(haircuts)
   haircuts.uniq
 end
 
+def using_flatten(instruments)
+  instruments.flatten
+end
 
-
-
-
-
-
-
+def using_delete(famous_robots, integer)
+  famous_robots.delete(integer)
+end
 
 
 
